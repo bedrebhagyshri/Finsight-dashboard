@@ -11,9 +11,13 @@ This project demonstrates skills in data cleaning, data modeling, DAX calculatio
 
 **3. Tech Stack**
  📊 Power BI Desktop – Dashboard Development & Visualization
+ 
  📂 Power Query – Data Cleaning & Transformation
+ 
  🧠  DAX (Data Analysis Expressions) – KPI and Measure Creation
+ 
  📝  Excel / CSV – Data Storage & Source Files
+ 
  📁  Data Modeling – Relationships & Star Schema Design
  
 **4. Data Source**
