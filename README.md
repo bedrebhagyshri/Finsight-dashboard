@@ -10,15 +10,16 @@ The FinSight Finance Analysis Dashboard is an end-to-end Power BI project design
 This project demonstrates skills in data cleaning, data modeling, DAX calculations, KPI development, and dashboard design using Power BI.
 
 **3. Tech Stack**
- 📊 Power BI Desktop – Dashboard Development & Visualization
+
+           📊 Power BI Desktop – Dashboard Development & Visualization
  
- 📂 Power Query – Data Cleaning & Transformation
+           📂 Power Query – Data Cleaning & Transformation
  
- 🧠  DAX (Data Analysis Expressions) – KPI and Measure Creation
+           🧠  DAX (Data Analysis Expressions) – KPI and Measure Creation
  
- 📝  Excel / CSV – Data Storage & Source Files
+           📝  Excel / CSV – Data Storage & Source Files
  
- 📁  Data Modeling – Relationships & Star Schema Design
+           📁  Data Modeling – Relationships & Star Schema Design
  
 **4. Data Source**
 More info on where the data comes from and how it’s structured Example: Source: Kaggle's
