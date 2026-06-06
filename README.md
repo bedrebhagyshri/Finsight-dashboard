@@ -1,7 +1,7 @@
 # Finsight-dashboard
 FinSight Finance Analysis
 
-**1. Project Title / Headline**
+**1. Project Title / Headline** : 
 FinSight Finance Analysis Dashboard – Power BI Financial Performance & Business Insights
 
 **2. Short Description / Purpose**
